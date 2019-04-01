@@ -11,3 +11,5 @@ Web Service Platform选择Apache Axis, Output mode选择client
 
 Web service wsdl url: http://192.168.200.153:14625/V1/JDJCService.svc?wsdl
 
+.Net WebService测试工具:.Neet WebService Studio
+
