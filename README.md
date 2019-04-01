@@ -13,3 +13,7 @@ Web service wsdl url: http://192.168.200.153:14625/V1/JDJCService.svc?wsdl
 
 .Net WebService测试工具:.Neet WebService Studio
 
+参考：https://blog.csdn.net/qq_33546747/article/details/53304097
+
+重在方法，不在代码。
+
